@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1499963331 source:c:\users\tomer\desktop\mycodes\exam2\calc.c
+	<stdio.h>
+	<stdlib.h>
+	"calc.h"
+
+1499955456 c:\users\tomer\desktop\mycodes\exam2\calc.h
+
+1499980563 source:c:\users\tomer\desktop\mycodes\exam2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calc.h"
+
